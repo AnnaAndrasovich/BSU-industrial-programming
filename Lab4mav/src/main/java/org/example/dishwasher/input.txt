@@ -1,0 +1,2 @@
+name 2200 white 350
+dishwasher 3500 black 440

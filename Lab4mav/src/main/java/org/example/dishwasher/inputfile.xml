@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<Dishwasher name ="dishwasher">
+	<volume>2500</volume>
+	<color>white</color>
+	<cost>350</cost>
+	</Dishwasher>
+</root>
